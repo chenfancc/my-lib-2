@@ -1,0 +1,6 @@
+---
+{"tags":["内科学"],"dg-publish":true,"permalink":"/DLC/en-US/Zollinger-Ellison 综合征/","dgPassFrontmatter":true}
+---
+
+---
+见[[DLC/zh-CN/促胃液素瘤\|促胃液素瘤]]
